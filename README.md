@@ -12,7 +12,7 @@
 * test.csv - Test data (Note: the Public/Private split is time based)
 * sample_submission.csv - a sample submission file in the correct format
 
-### -Data fields:*
+### *Data fields:*
 
 * date - Date of the sale data. There are no holiday effects or store closures.
 * store - Store ID
